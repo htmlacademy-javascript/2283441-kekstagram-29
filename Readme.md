@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Виктория Орлова](https://up.htmlacademy.ru/javascript/29/user/2283441).
-* Наставник: `Неизвестно`.
+- Студент: [Виктория Орлова](https://up.htmlacademy.ru/javascript/29/user/2283441).
+- Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim).
 
 ---
 
